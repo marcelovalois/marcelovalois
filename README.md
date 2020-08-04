@@ -7,6 +7,8 @@ I guess I've recently found what is possibly my favourite programming language: 
 I'm studying all of the wonderful things about: Javascript(ES6+), ReactJS, Node, CSS3 and, also, Python and C++.
 Besides, I enjoy Algorithms and Data Structures and all the whole thing about Competitive programming.
 
+linkedin.com/in/marcelo-menezes-valois-16789b143
+
 <!--
 **marcelovalois/marcelovalois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
