@@ -1,6 +1,6 @@
 Hi there!
 
-I'm a Computer Engineering student passionated for solving problems and coding!
+I'm a Computer Engineering student passionate about solving problems and coding!
 
 I guess I've recently found what is possibly my favourite programming language: Javascript.
 
