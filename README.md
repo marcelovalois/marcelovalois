@@ -1,4 +1,4 @@
-<h1>Hi there!<h1>
+Hi there!
 
 I'm a Computer Engineering student passionated for solving problems and coding!
 
