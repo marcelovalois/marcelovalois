@@ -1,11 +1,10 @@
 Hi there! :smile:
 
-I'm a Computer Engineering student passionate about coding and solving problems!
+I'm a Computer Engineering student passionated about coding and, solving problems!
 
-I guess I've recently found what is, potentially, my favourite programming language: Javascript.
+I guess I've found what is, potentially, my favourite programming language: Javascript. :)
 
-I'm studying all of the wonderful things about: Javascript(ES6+), ReactJS, Node, CSS3 and, also, Python and C++.
-Besides, I enjoy Algorithms and Data Structures and all the whole thing about Competitive programming.
+I'm studying all about the wonderful world of Javascript, ReactJS, Node, CSS3, Python, C++ and everything else!
 
 
 
